@@ -1,0 +1,16 @@
+γ = 10, C = 0.01, Optimal objective value: 7.130305335448902
+γ = 10, C = 0.1, Optimal objective value: 49.48075328929646
+γ = 10, C = 0.5, Optimal objective value: 187.56122156215605
+γ = 10, C = 1, Optimal objective value: 326.34206544232353
+γ = 50, C = 0.01, Optimal objective value: 6.7162813701359125
+γ = 50, C = 0.1, Optimal objective value: 31.260608969263025
+γ = 50, C = 0.5, Optimal objective value: 79.70705360878573
+γ = 50, C = 1, Optimal objective value: 116.6115333004212
+γ = 100, C = 0.01, Optimal objective value: 6.794814148963814
+γ = 100, C = 0.1, Optimal objective value: 28.374181922347255
+γ = 100, C = 0.5, Optimal objective value: 60.780355189335125
+γ = 100, C = 1, Optimal objective value: 83.41142489931678
+γ = 500, C = 0.01, Optimal objective value: 7.30647184977537
+γ = 500, C = 0.1, Optimal objective value: 42.41745966703809
+γ = 500, C = 0.5, Optimal objective value: 64.36483396116274
+γ = 500, C = 1, Optimal objective value: 73.96324152629622
